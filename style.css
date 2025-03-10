@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background: url('https://images.unsplash.com/photo-1491510736257-3ad769ff47b6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
-    color: hsl(137, 92%, 49%);
+    color: hsl(120, 8%, 53%);
 }
 
 /* Header */
@@ -124,4 +124,28 @@ footer a {
     color: white;
     padding: 10px 20px;
     font-weight: bold;
+}
+/* Statistics eyi */
+.stats-section {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #f8f8f8; 
+    padding: 30px 0;
+    margin: 30px 0;
+}
+
+.stat {
+    padding: 20px;
+}
+
+.stat h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #d4a373; 
+}
+
+.stat p {
+    font-size: 18px;
+    color: #555;
 }

@@ -1,4 +1,4 @@
-your images are usully not showing, check that
+ your images are usully not showing, check that
 the image path is correct and the image exists
 put the "about" section before the services section on the home page
 green text color doesnt really complement your background some of the text is hard to read
@@ -14,3 +14,8 @@ branches
 customer satisfaction
 
 they should all be inline as style
+
+
+
+About line 5 i dont know what is wrong coz i have tried everything and it shows but i dont really know what to do if you could help me.
+also about line 16 i tried something really dont know if this is what you expect. But i am doing a lot of referrals when i am coding i hope it is good
