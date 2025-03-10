@@ -1,0 +1,16 @@
+your images are usully not showing, check that
+the image path is correct and the image exists
+put the "about" section before the services section on the home page
+green text color doesnt really complement your background some of the text is hard to read
+put a picture next to the about us, i think you tried but it isnt showing
+also after the "about" and before the services section on the home page add statistics:
+#Over 500+ 
+patients treated
+
+#Over 20 
+branches
+
+#110%
+customer satisfaction
+
+they should all be inline as style
