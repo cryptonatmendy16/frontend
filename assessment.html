@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assessment</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Mental State Assessment</h1>
+        <form id="assessmentForm">
+            <label>How often do you feel stressed?</label>
+            <select id="stress">
+                <option value="1">Rarely</option>
+                <option value="2">Sometimes</option>
+                <option value="3">Often</option>
+                <option value="4">Always</option>
+            </select>
+
+            <label>How well do you sleep at night?</label>
+            <select id="sleep">
+                <option value="1">Very well</option>
+                <option value="2">Okay</option>
+                <option value="3">Poorly</option>
+                <option value="4">Terrible</option>
+            </select>
+
+            <label>Do you feel motivated daily?</label>
+            <select id="motivation">
+                <option value="1">Yes, always</option>
+                <option value="2">Sometimes</option>
+                <option value="3">Rarely</option>
+                <option value="4">Never</option>
+            </select>
+
+            <button type="button" onclick="submitAssessment()">Submit</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
